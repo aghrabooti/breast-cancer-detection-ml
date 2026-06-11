@@ -5,7 +5,6 @@ This repository contains a comprehensive machine learning pipeline for breast ca
 ## Repository Structure
 * `BreastCancer_ML_Project.ipynb` - Core Jupyter Notebook containing EDA, preprocessing, and model training.
 * `requirements.txt` - Python dependencies needed to execute the project.
-* `.gitignore` - Standard rules to prevent pushing local cache and checkpoint folders.
 
 ## Dataset
 * **Name:** Wisconsin Breast Cancer Dataset (scikit-learn built-in)
